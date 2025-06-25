@@ -1,0 +1,24 @@
+{
+  "name": "test-its",
+  "version": "1.0.0",
+  "description": "Esercizi di programmazione funzionale in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "javascript",
+    "exercises"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
